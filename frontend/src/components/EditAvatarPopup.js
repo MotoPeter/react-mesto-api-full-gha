@@ -23,7 +23,7 @@ function EditAvatarPopup({ isOpen, onUpdateAvatar }) {
 			name="avatar"
 			buttonSubmitText={!value.isLoading ? "Сохранить" : "Сохранение"}
 			isOpen={isOpen}
-			onClose={value.closeAllPopaps}
+			onClose={value.closeAllPopups}
 			onSubmit={handleSubmit}
 			children={
 				<fieldset className="popup__fieldset">
