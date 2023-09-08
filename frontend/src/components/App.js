@@ -68,9 +68,7 @@ function App() {
 	};
 
 	function handleCardLike(card) {
-    console.log(card.likes, currentUser._id);
 		const isLiked = card.likes.some((i) => i === currentUser._id);
-    console.log(isLiked)
 		api
 			.changeLikeCardStatus(card, !isLiked)
 			.then((newCard) => {
@@ -173,7 +171,6 @@ function App() {
 			.then((data) => {
 				if (data.token) {
 					localStorage.setItem("token", data.token);
-          console.log(localStorage.getItem("token"));
 					tokenCheck();
 				}
 			})
