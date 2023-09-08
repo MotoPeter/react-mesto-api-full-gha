@@ -66,7 +66,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.96.83
+IP-адрес <51.250.96.83>
 
 Frontend https://mesto.motopeter.nomoredomainsicu.ru
 
