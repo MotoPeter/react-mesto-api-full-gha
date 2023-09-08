@@ -1,0 +1,9 @@
+.place__like-sum {
+	font-family: "Inter", "Source Sans Pro", "Arial", sans-serif;
+	display: block;
+	text-align: center;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 16px;
+	color: #000;
+}

@@ -1,0 +1,11 @@
+.auth-form__button {
+	padding: 0;
+	border: none;
+	border-radius: 2px;
+	max-width: 358px;
+	min-height: 50px;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}

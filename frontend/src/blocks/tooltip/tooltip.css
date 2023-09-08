@@ -1,0 +1,15 @@
+.tooltip {
+	margin: 0;
+	padding: 60px 36px;
+	width: 430px;
+	align-items: center;
+	gap: 32px;
+	color: #000000;
+	background: #ffffff;
+	box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	position: relative;
+}

@@ -1,0 +1,15 @@
+.auth-form {
+	margin: auto;
+	margin-top: 60px;
+	padding: 0;
+	box-sizing: border-box;
+	width: 358px;
+	display: flex;
+	flex-direction: column;
+}
+
+@media screen and (max-width: 400px) {
+	.auth-form {
+		width: 260px;
+	}
+}

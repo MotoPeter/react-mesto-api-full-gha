@@ -1,0 +1,5 @@
+.figure__img {
+	background-size: cover;
+	max-width: 75vw;
+	max-height: 75vh;
+}

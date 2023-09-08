@@ -1,0 +1,10 @@
+.profile__text {
+	align-self: flex-start;
+	width: 294px;
+}
+
+@media screen and (max-width: 450px) {
+	.profile__text {
+		width: 189px;
+	}
+}
