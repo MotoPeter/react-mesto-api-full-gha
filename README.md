@@ -66,10 +66,10 @@
 
 ## Ссылки на проект
 
-IP-адрес '51.250.96.83'
+IP-адрес 51.250.96.83
 
-Frontend 'https://mesto.motopeter.nomoredomainsicu.ru'
+Frontend https://mesto.motopeter.nomoredomainsicu.ru
 
-Backend 'https://api.mesto.motopeter.nomoredomainsicu.ru'
+Backend https://api.mesto.motopeter.nomoredomainsicu.ru
 
 
